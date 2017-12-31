@@ -6,9 +6,9 @@ JAMM Motors is the team that I was a part of for my FSE 100 class. The car had t
 
 JAMM Motors is comprised of Jacob Andrus, Anirudh Chinepalli, Michael Galvan, and myself. 
 
-Jacob designed and built the entire car from scratch and contibuted to some of the source code.
+Jacob designed and built the entire car from scratch and contributed to some of the source code.
 Michael was the chief coder on the team and wrote most of the code and also developed a lot of the logic.
-I coded the sensors, part of the logic for the delays. My role was more focused on documentation and testing/error reporting. 
+I coded the sensors, part of the logic for the delays. My role was more focused on documentation/submissions and testing/error reporting. 
 
 Watch 'Manual Control Demonstration' - https://youtu.be/ym36pChWLMk
 
