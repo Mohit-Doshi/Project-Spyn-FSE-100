@@ -12,4 +12,4 @@ I coded the sensors, part of the logic for the delays. My role was more focused 
 
 Watch 'Manual Control Demonstration' - https://youtu.be/ym36pChWLMk
 
-Watch 'Autonomous Maze Navigation Demonstration - https://youtu.be/BPJ1gYAZT8Y
+Watch 'Autonomous Maze Navigation Demonstration' - https://youtu.be/BPJ1gYAZT8Y
