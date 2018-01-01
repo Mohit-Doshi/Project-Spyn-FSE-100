@@ -8,7 +8,7 @@ JAMM Motors is comprised of Jacob Andrus, Anirudh Chinepalli, Michael Galvan, an
 
 Jacob designed and built the entire car from scratch and contributed to some of the source code.
 Michael was the chief coder on the team and wrote most of the code and also developed a lot of the logic.
-I coded the sensors, part of the logic for the delays. My role was more focused on documentation/submissions and testing/error reporting. 
+I coded some of the sensors, part of the logic for the delays. My role was more focused on documentation/submissions and testing/error reporting. 
 
 Watch 'Manual Control Demonstration' - https://youtu.be/ym36pChWLMk
 
